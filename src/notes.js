@@ -1,14 +1,3 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
-import HomePage from "./components/homepage.component.js";
-
-function App() {
-  return(
-    <HomePage />
-    );
-}
-
 function App2() {
   return (
     <div className="App">
@@ -29,5 +18,3 @@ function App2() {
     </div>
   );
 }
-
-export default App;
